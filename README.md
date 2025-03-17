@@ -2,8 +2,6 @@
 
 Date: 07/12/2022
 
-File: **shop.py** is a program that asks the user to enter **user's name, age, and favorite movie** and outputs a greeting message that includes the information about the user.
-
 **Overview**
 
 This project is a simple vending machine simulation implemented in Python. It allows users to select a beverage, deposit money, and receive change using a greedy algorithm to minimize the number of coins returned.
