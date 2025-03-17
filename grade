@@ -1,0 +1,34 @@
+
+Programming Assignment 2
+**********************************
+Specification :
+shop.py is present +5 points
+shop.py has a comment author +1 points
+shop.py has a comment date +1 points
+shop.py has a comment file +1 points
+shop.py has a comment input +1 points
+shop.py has a comment output +1 points
+
+**********************************
+Loops and Conditional Statements :
+shop.py has while-loop +3 points
+shop.py has if-statement +3 points
+shop.py has elif-statement +3 points
+shop.py has integer-casting +3 points
+
+**********************************
+Performance :
+
+for input file ex1:
+shop.py runs without errors +10 points
+output is correct +9 points
+
+for input file ex2:
+shop.py runs without errors +10 points
+output is correct +9 points
+
+**********************************
+Your grade is 60 out of 60 
+
+        
+
